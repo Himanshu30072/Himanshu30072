@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm a Software Engineer by Profession
+
+- Currently working on Java SpringBoot
+- I'm interested in Coding and Developing Apps
+- 📫 How to reach me: Sharma17.himanshu@gmail.com
 
 <!--
 **Himanshu30072/Himanshu30072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
